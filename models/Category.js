@@ -16,7 +16,6 @@ Category.init(
       allowNull: false,
     }
   },
-
   
   {
     sequelize,
