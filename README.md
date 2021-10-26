@@ -8,4 +8,4 @@ MVC structuring.
 CRUD followed with Post (Create), Get (Read), Put (Update) and Delete (Delete) routes.
 
 GitHub URL:https://github.com/ptantsidis/E-commerce.git
-ScreenCastify:
+ScreenCastify:https://watch.screencastify.com/v/ntUJBLw8nh2t3azQL4Ao
