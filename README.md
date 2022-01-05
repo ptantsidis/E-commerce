@@ -18,9 +18,9 @@ ____
 
   *[License](#license)
 
-  *[GitHub Name](#githubname)
+  *[GitHub Name](#github-name)
 
-  *[GitHub Repo](#githubrepo)
+  *[GitHub Repo](#github-repo)
 
   *[Images](#images)
 ____  
@@ -28,10 +28,10 @@ ____
   Express.js API, MySql2, Sequelize and Postman.
 
   ## Description
-  Backend structure securing sensitive data.
+  $
 
   ## Usage
-  Using ORM and securing sensitive data this application  data to the database. MVC structuring and CRUD post routes. 
+  Using ORM and securing sensitive data this application data to the database. MVC structuring and CRUD post routes
 
   ## Start
   
@@ -47,14 +47,14 @@ ____
   (https://opensource.org/licenses/MIT)
   No
 
-  ### GitHub Name
+  ### GitHub-Name
   https://github.com/ptantsidis
   
-  ### GitHub Repo
+  ### GitHub-Repo
   https://github.com/ptantsidis/E-commerce.git
 
   ### Heroku Deploy
-  no
+  
 
   ### Images  
-  ScreenCastify:  https://watch.screencastify.com/v/ntUJBLw8nh2t3azQL4Ao 
+  ScreenCastify: https://watch.screencastify.com/v/ntUJBLw8nh2t3azQL4Ao
