@@ -1,6 +1,6 @@
  # E-commerce 
 ____
-  ## Latest teck in e-commerce  
+  ## Latest tech in e-commerce  
   ____  
   ## Table of Contents
 ____
