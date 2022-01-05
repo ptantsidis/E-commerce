@@ -1,12 +1,60 @@
-E-commerce
+ # E-commerce 
+____
+  ## Latest teck in e-commerce  
+  ____  
+  ## Table of Contents
+____
+  [Installation](#installation)
 
-Dotenv is used to secure sensitive data.
-Using Express.js API, MySql, Sequelize  and Postman.
-Schema and seed data are created and seeded with test data.
-Json formatting used in Postman.
-MVC structuring.
-CRUD followed with Post (Create), Get (Read), Put (Update) and Delete (Delete) routes.
+  *[Description](#desc)
 
-GitHub URL:https://github.com/ptantsidis/E-commerce.git
-ScreenCastify:https://watch.screencastify.com/v/ntUJBLw8nh2t3azQL4Ao
-Node screen:![ecommerce_nodejs](https://user-images.githubusercontent.com/90045665/138805681-4a546d41-d847-4b5d-a40d-34b76e22b0fa.png)
+  *[Usage](#usage)
+
+  *[Start](#start)
+  
+  *[Contributions](#contributions)
+
+  *[Contact](#contact)
+
+  *[License](#license)
+
+  *[GitHub Name](#githubname)
+
+  *[GitHub Repo](#githubrepo)
+
+  *[Images](#images)
+____  
+  ## Installation
+  Express.js API, MySql2, Sequelize and Postman.
+
+  ## Description
+  Backend structure securing sensitive data.
+
+  ## Usage
+  Using ORM and securing sensitive data this application  data to the database. MVC structuring and CRUD post routes. 
+
+  ## Start
+  
+
+  ## Contributions
+  Backend, seeding and routing by Phil Tantsidis
+    
+  ###  Contact
+  ptantsidis@hotmail.com
+    
+  ### License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  (https://opensource.org/licenses/MIT)
+  No
+
+  ### GitHub Name
+  https://github.com/ptantsidis
+  
+  ### GitHub Repo
+  https://github.com/ptantsidis/E-commerce.git
+
+  ### Heroku Deploy
+  no
+
+  ### Images  
+  ScreenCastify:  https://watch.screencastify.com/v/ntUJBLw8nh2t3azQL4Ao 
